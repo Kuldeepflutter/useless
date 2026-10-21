@@ -1,0 +1,7 @@
+requests>=2.31,<3
+websocket-client>=1.7,<2
+streamlit>=1.37,<2
+pandas>=2.0,<3
+plotly>=5.20,<7
+pytest>=8,<9
+python-dotenv>=1.0,<2
